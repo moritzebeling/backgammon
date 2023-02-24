@@ -1,0 +1,8 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="1200" fill="black"/>
+    <rect x="1200" y="1200" width="600" height="1200" transform="rotate(-180 1200 1200)" fill="white"/>
+    <path d="M300.003 500L-0.00010147 1.05941e-06L600 8.34465e-06L300.003 500Z" fill="white"/>
+    <path d="M900.003 500L600 1.05941e-06L1200 8.34465e-06L900.003 500Z" fill="black"/>
+    <path d="M899.997 700L1200 1200L600 1200L899.997 700Z" fill="black"/>
+    <path d="M299.997 700L600.001 1200L-3.15254e-06 1200L299.997 700Z" fill="white"/>
+</svg>
