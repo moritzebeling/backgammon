@@ -1,0 +1,28 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="1200" fill="black" />
+    <rect x="1200" y="1200" width="600" height="1200" transform="rotate(-180 1200 1200)" fill="white" />
+    <path d="M50.0005 500L-1.34705e-05 1.05941e-06L100 8.34465e-06L50.0005 500Z" fill="white" />
+    <path d="M150.001 500L100 1.05941e-06L200 8.34465e-06L150.001 500Z" fill="white" />
+    <path d="M250.001 500L200 1.05941e-06L300 8.34465e-06L250.001 500Z" fill="white" />
+    <path d="M350.001 500L300 1.05941e-06L400 8.34465e-06L350.001 500Z" fill="white" />
+    <path d="M450.001 500L400 1.05941e-06L500 8.34465e-06L450.001 500Z" fill="white" />
+    <path d="M550.001 500L500 1.05941e-06L600 8.34465e-06L550.001 500Z" fill="white" />
+    <path d="M650.001 500L600 1.05941e-06L700 8.34465e-06L650.001 500Z" fill="black" />
+    <path d="M750.001 500L700 1.05941e-06L800 8.34465e-06L750.001 500Z" fill="black" />
+    <path d="M850.001 500L800 1.05941e-06L900 8.34465e-06L850.001 500Z" fill="black" />
+    <path d="M950.001 500L900 1.05941e-06L1000 8.34465e-06L950.001 500Z" fill="black" />
+    <path d="M1050 500L1000 1.05941e-06L1100 8.34465e-06L1050 500Z" fill="black" />
+    <path d="M1150 500L1100 1.05941e-06L1200 8.34465e-06L1150 500Z" fill="black" />
+    <path d="M1150 700L1200 1200L1100 1200L1150 700Z" fill="black" />
+    <path d="M1050 700L1100 1200L1000 1200L1050 700Z" fill="black" />
+    <path d="M950 700L1000 1200L900 1200L950 700Z" fill="black" />
+    <path d="M850 700L900 1200L800 1200L850 700Z" fill="black" />
+    <path d="M750 700L800 1200L700 1200L750 700Z" fill="black" />
+    <path d="M650 700L700 1200L600 1200L650 700Z" fill="black" />
+    <path d="M550 700L600 1200L500 1200L550 700Z" fill="white" />
+    <path d="M450 700L500 1200L400 1200L450 700Z" fill="white" />
+    <path d="M350 700L400 1200L300 1200L350 700Z" fill="white" />
+    <path d="M250 700L300 1200L200 1200L250 700Z" fill="white" />
+    <path d="M150 700L200 1200L99.9999 1200L150 700Z" fill="white" />
+    <path d="M49.9995 700L100 1200L-8.79482e-05 1200L49.9995 700Z" fill="white" />
+</svg>
