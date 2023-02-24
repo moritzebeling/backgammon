@@ -1,6 +1,6 @@
 <script>
 
-  import Board from "$lib/Grid.svelte";
+  import Board from "$lib/Board.svelte";
 
 </script>
 

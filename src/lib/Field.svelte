@@ -6,8 +6,6 @@
     export let stones;
     export let half;
 
-    console.log( field, stones );
-
 </script>
     
 <div class="field-{field} row-{row} col-{col} half-{half}">
